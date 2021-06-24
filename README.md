@@ -42,6 +42,7 @@ Programador web [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https:/
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/graphql.png' height='42px'/> -->
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/java.png' height='42px'>
+  <img src='http://netframework4.net/wp-content/uploads/2016/06/net-framework-4-descargar-01.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
 <!--   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mariadb.png' height='42px'>-->
